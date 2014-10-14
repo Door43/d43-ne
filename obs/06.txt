@@ -1,31 +1,46 @@
-====== 6. God Provides for Isaac ======
+====== ६.इसहाककाे लागि परमेश्वरले जुटाउनुहुन्छ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg}}
 
-When Abraham was very old and his son, Isaac, had grown to be a man, Abraham sent one of his servants back to the land where his relatives lived to find a wife for his son, Isaac.
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg}}
 
-After a very long journey, God led the servant to Rebekah, who was the granddaughter of Abraham’s brother.
+जब अब्राहाम धेरै बुढाे भए र उनकाे छाेराे इसहाक एउटा हुर्केकाे मानिस भए। अब्राहामले अाफ्ना नाेकरहरू मध्ये एकजनालार्इ अाफ्ना कुटुम्बहरू बसाेबासगरिरहेकाे उनकै देशमा छाेरा इसहाककाे लागि एउटी स्वास्नी खाेजेर ल्याउन पठाए ।
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg}}
 
-Rebekah agreed to leave her family and go back with the servant. Isaac married her as soon as she arrived.
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg}}
 
-After a long time, Abraham died and all of the promises that God had made to him in the covenant were passed on to Isaac. God had promised that Isaac would have countless descendants, but Isaac’s wife, Rebekah, could not have children.
+धेरै लामाे यात्रा पश्चात्, त्याे नाेकरलार्इ परमेश्वरले रिबेका भएकाे ठाउँमा डाेर्‍याउनु भयाे, जाे अब्रहामकाे भार्इकाे नातिनी थिइन् ।
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-05.jpg}}
 
-Isaac prayed for Rebekah, and God allowed her to get pregnant with twins. While they were still inside her, the two children struggled with each other, so Rebekah asked God what was happening.
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg}}
 
-God told Rebekah, "There are two nations inside of you. They will struggle with each other and the older son will serve the younger one."
+रिबेकाले अाफ्नाे घर-परिवार छाेडेर त्याे नाेकरसंग जान राजी भइन् । तिनीहरू इसहाक भएकाे ठाउँमा पुग्ने बितिकै इसहाकसंग विवाह गरे ।
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg}}
 
-When Rebekah's babies were born, the older son came out red and hairy, and they named him Esau. Then the younger son came out holding on to Esau's heel, and they named him Jacob.
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?direct&}}
 
-//A Bible story from: Genesis 24:1-25:26//
+
+धेरै समयपछि अब्राहामकाे मृत्यु भयाे र परमेश्वरले अब्राहामसंग करारमा बाँध्नु भएका ति सबै प्रतिज्ञाहरू इसहाकमा गयाे । इसहाककाे असंख्य सन्तानहरू हुनेछन् भनी परमेश्वरले प्रतिज्ञा गर्नुभएकाे थियाे, तर इसहाककी स्वास्नी रिबेकाकाे कुनै सन्तान भएकाे थिएन ।
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-05.jpg?direct&}}
+
+
+इसहाकले रिबेकाकाे निम्ति प्रार्थना गरे, र परमेश्वरले जुम्ल्याहा बालकहरूका साथ रिबेकालार्इ गर्भवती बनाउनुभयाे । गर्भभित्र भएका बालकहरूले एक-अर्का संग लडन्त गर्न लागे, यसकारण रिबेकाले त्यस्ताे के भर्इरहेकाे भनेर साेधिन् ।
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?direct&}}
+
+
+परमेश्वरले रिबेकालार्इ भन्नुभयाे, "तेराे काेखमा दुर्इ जातिहरू छन् । तिनीहरू एक अापसमा लडन्त गर्नेछन् र जेठाले कान्छाकाे सेवा गर्नेछ ।"
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?direct&}}
+
+
+जब रिबेकाका छाेराहरू जन्मे, जेठाचाहि राताे वर्णकाे, शरीर भरि राैंले ढाकेकाे थियाे, र तिनीहरूले त्यसकाे नाउँ एसाब राखे । त्यसपछि कान्छाे चाशि एसाबकाे कुर्कुभच्चा हातले समातेर जिस्क्याे र तिनीहरूले त्यसकाे नाउँ याकुब राखे ।
+
+
+उत्पति २४:१-२५:२६ बाट बाइबलकाे एउटा कथा
