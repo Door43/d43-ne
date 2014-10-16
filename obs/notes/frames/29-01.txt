@@ -1,6 +1,6 @@
 ====== How Many Times? [29-01] ======
 
-{{:en:obs:obs-29-01.jpg?nolink&640x360}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
 
 **One day**, **[[:en:key-terms:peter|Peter]]** asked **[[:en:key-terms:jesus|Jesus]]**, “**[[:en:key-terms:lord|Master]]**, how many times should I **[[:en:key-terms:forgive|forgive]]** **my brother** when he **[[:en:key-terms:sin|sins]] against me**? **Up to** seven times?” Jesus said, “**Not seven times, but seventy times seven!**” **By this, Jesus meant** that we should always forgive. Then Jesus told **this story**.
 
