@@ -1,52 +1,76 @@
-====== 39. Jesus Is Put on Trial ======
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg}}
-
-It was now the middle of the night. The soldiers led Jesus to the house of the high priest to be questioned. Peter followed far behind. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg}}
-
-Inside the house, the Jewish leaders put Jesus on trial. They brought many witnesses who lied about him. However, their statements did not agree with each other, so they could not prove he was guilty of anything. Jesus did not say anything.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg}}
-
-Finally, the high priest looked directly at Jesus and said, “Tell us, are you the Messiah, the Son of the living God?”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg}}
-
-Jesus said, “I am, and you will see me seated with God and coming in power from heaven.” The high priest tore his clothes in anger and shouted, “We do not need any more witnesses. You have heard him say that he is the Son of God. What is your judgment?”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg}}
-
-The Jewish leaders all answered, “He deserves to die!” Then they blindfolded Jesus, spit on him, hit him, and mocked him.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg}}
-
-Outside the house, a girl saw Peter and said, “You also were with Jesus!” Peter denied it. Later, another girl said the same thing, and Peter denied it again. Finally, the people said, “You were with Jesus because you both are from Galilee.”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg}}
-
-Peter swore, saying, “May God curse me if I know this man!” Immediately, a rooster crowed, and Jesus turned and looked at Peter.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg}}
-
-Peter went away and cried bitterly. Meanwhile, when Judas, the betrayer, saw that Jesus had been condemned, he became full of sorrow and went away and killed himself.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg}}
-
-Early the next morning, the Jewish leaders brought Jesus to the Roman governor, Pilate, hoping to have Jesus killed. Pilate asked him, “Are you the King of the Jews?”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg}}
-
-Jesus answered, “You have said so, but my Kingdom is not an earthly kingdom. If it were, my servants would fight for me. But I have come to earth to tell the truth about God. Everyone who loves the truth listens to me.” Pilate said, “What is truth?”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg}}
-
-After speaking with Jesus, Pilate went out to the crowd and said, “I find no guilt in this man.” But the Jewish leaders and the crowd shouted, “Crucify him!” Pilate replied, “He is not guilty.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg}}
-
-But Pilate became afraid that a riot would start, so he handed Jesus over to them to be crucified. The soldiers whipped Jesus, put a royal robe and a crown made of thorns on him, and they mocked him, saying, “Look, the King of the Jews!”
+====== ३९. महासभाको सामुन्ने येशू ======
 
 
-//A Bible story from: Matthew 26:57-27:26; Mark 14:53-15:15; Luke 22:54-23:25; John 18:12-19:16//
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?direct&}}
+
+
+त्यो मध्यरातको समय थियो। सेनाहरुले येशूलाई प्रधान पुजाहारीको घरमा लगे ताकि प्रधान पुजाहारीले उहाँलाई प्रश्न सोध्न सकुन्। पत्रुसले टाढैबाट उनीहरुलाई पछ्यायो। जब येशूलाई घरभित्र लगियो, पत्रुसचाहिँ बाहिरै बस्यो र आगो ताप्दै आफैँलाई न्यानो बनायो। 
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?direct&}}
+
+
+घरभित्रचाहिँ, यहूदी अगुवाहरुले येशूलाई महासभाको सामुन्ने राखे। उनीहरुले धेरै झुटा गवाहीहरु ल्याए जसले उहाँको बारेमा झुट बोले। तथापि, उनीहरुको बयान एक-अर्कासँग सहमत भएन, तसर्थ यहूदी अगुवाहरुले उहाँलाई कुनै कुराको दोषी हुनुहुन्छ भनी प्रमाणित गर्न सकेनन्। येशूले केही भन्नुभएन।
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?direct&}}
+
+
+अन्त्यमा, प्रधान पुजाहारीले सिधै येशूतिर हरे र भने, “हामीलाई भन, के तिमी मसिह हौ, जीवित परमेश्वरका पुत्र?”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?direct&}}
+
+
+येशूले भन्नुभयो, “म हुँ, अनि तपाईँले मलाई परमेश्वरसँग बसिरहेको र स्वर्गबाट आएको देख्नुहुनेछ।” प्रधान पुजाहारीले रिसमा आफ्नो वस्त्र च्याते र अरु धार्मिक अगुवाहरुलाई यसो भनेर कराए, “हामीलाई अरु कुनै गवाही चाहिँदैन! तिमीहरुले यसले भनेको सुनेका छौ की उनी परमेश्वरका पुत्र हुन्। तिमीहरुको के निर्णय छ?”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?direct&}}
+
+
+सबै यहूदी अगुवाहरुले जवाफ दिए, “उनी मारिन योग्यका छन्!” अनि तिनीहरुले येशूको आखाँमा पट्टि बाँधिदिए, उहाँमाथि थुके, कुटे, र उहाँलाई गिज्याए।
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?direct&}}
+
+
+जसै पत्रुस घर बाहिर पर्खेर बसिरहेको थियो, एक नोकर्नीले उनलाई देखिन् र भनिन्, “तिमी पनि येशूसँगै थियौ!” पत्रुसले त्यो इन्कार गरे। पछि, अर्की स्त्रीले पनि त्यसै भनिन्, अनि पत्रुसले फेरि इन्कार गरे। अन्तत: मानिसहरुले भने, “हामीलाई थाहा छ कि तिमी येशूसँगै थियौ किनकी तिमीहरु दुवैजना गालिलका हौ।”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg?direct&}}
+
+
+अनि पत्रुसले यसो भनि वाचा गरे, “यदी मैले यो मानिसलाई चिनेको रहेछु भने परमेश्वरले मलाई श्राप दिऊन्!” तुरुन्तै, एउटा भाले बास्यो, अनि येशू फर्कनुभयो र पत्रुस तर्फ हेर्नुभयो। 
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?direct&}}
+
+
+पत्रुस त्यहाँबाट अन्त्यै गए र धुरुधुरु रोए। यसैबीच, यहूदा, त्यो विश्वासघातीले यहूदी अगुवाहरुले येशूलाई मारिनको लागी दोष्याएको देखे। यहूदा शोकले भरिए अनि त्यहाँबाट अन्त्यै गए र आफैँलाई मारे।
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?direct&}}
+
+
+अर्को बिहान सबेरै, यहूदी अगुवाहरुले येशूलाई रोमी राज्यपाल, पिलातसको सामु ल्याए। उनीहरुले आश गरेका थिए कि पिलातसले येशूलाई दोषी ठहराउनेछन् र उहाँलाई मृत्युदण्डको सजाय दिनेछन्। पिलातसले येशूलाई सोधे, “के तिमी यहूदीहरुका राजा हौ?”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?direct&}}
+
+
+येशूले जवाफ दिनुभयो, “तपाईँ नै त्यसो भन्नुहुन्छ, तर मेरो राज्यचाहिँ संसारको राज्य होइन। यदी त्यसो हो त, मेरा दासहरुले मेरो निम्ति लडाईँ गर्ने थिए। म संसारमा परमेश्वरको बारेमा सत्यता बताउन आएको हुँ। सबैजना जसले सत्यतालाई प्रेम गर्छन्, मलाई सुन्छन्।” पिलातसले भने, “सत्यता के हो?”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?direct&}}
+
+
+येशूसँग कुरा गरिसकेपछि, पिलातस बाहिर भीडकहाँ गए र भने, “म यस मानिसमा कुनै दोष भेट्टाउँदिन।” तर यहूदी अगुवाहरु र भीडले कराए, “उसलाई क्रुसमा चढाऊ!” पिलातसले जवाफ दिए, “ऊ दोषी छैन।” तर उनीहरु अझ चर्को स्वरमा कराउन लागे। त्यसपछि पिलातसले तेस्रो पटक भने, “ऊ दोषी छैन!”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg?direct&}}
+
+
+पिलातस भीडले अब दंगा मच्चाउन लाग्ने भयो भनेर डराए, त्यसैले उनले आफ्ना सिपाहीहरुलाई येशूलाई क्रुसमा चढाउन भनी आज्ञा दिए। रोमी सिपाहीहरुले येशूलाई कोर्रा लगाए र एक राजकीय पोशाक र काडाँहरुले बनाएको मुकुट उहाँमाथि लगाइदिए। अनि उनीहरुले उहाँलाई यसो भनेर गिज्याए, “हेर, यहूदीहरुका राजा!”
+
+
+बाइबलको कथा: मत्ती २६:५७-२७:२६; मर्कूस १४:५३-१५:१५; लूका २२:५४-२३:२५; यूहन्ना १८:१२-१९:१६ बाट
