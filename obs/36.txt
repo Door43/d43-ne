@@ -1,32 +1,46 @@
-====== 36. The Transfiguration ======
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg}}
-
-One day, Jesus took three of his disciples, Peter, James, and John with him. (This John was not the same person who baptized Jesus.) They went up on a high mountain by themselves.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg}}
-
-All of a sudden, Jesus’ face became as bright as the sun and his clothes became as white as light, whiter than anyone on earth could make them.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg}}
-
-Then Moses and Elijah, who had both lived hundreds of years earlier, appeared. They talked with Jesus about his death which would soon happen in Jerusalem.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg}}
-
-As Moses and Elijah were talking with Jesus, Peter said, “Jesus, it is good for us to be here. Let us make three tents, one for you, one for Moses, and one for Elijah.” Peter did not know what he was saying.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg}}
-
-As Peter was talking, a bright cloud came down on top of them and a voice from the cloud said, “This is my Son whom I love. I am pleased with him. Listen to him.” The three disciples were terrified and fell on the ground.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg}}
-
-Then Jesus touched them and said, “Do not be afraid. Get up.” When they looked around they saw no one but Jesus.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg}}
-
-As Jesus and the three disciples went back down the mountain, Jesus said to them, “Do not tell anyone about what happened here until after I have been raised from the dead.”
+====== ३६. रुप परिवर्तन ======
 
 
-//A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36//
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?direct&}}
+
+
+एकदिन, येशूले उहाँका तीनजना चेलाहरु, पत्रुस, याकूब र यूहन्नालाई आफूसँग लानुभयो। (यूहन्ना नाउँ गरेको चेला त्यही व्यक्ति थिएनन् जसले येशूलाई बप्तिस्मा दिएका थिए।) उनीहरु एक अग्लो पहाडको माथि प्रार्थना गर्न गए। 
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?direct&}}
+
+
+जसै येशू प्रार्थना गर्दै हुनुहुन्थ्यो, उहाँको अनुहार सूर्यझैँ चकिलो भयो उहाँका कपडा ज्योतिझैँ सेतो भयो, यस्तो कि पृथ्वीभरि कसैले बनाउन सक्नेभन्दा पनि सेतो।
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?direct&}}
+
+
+त्यसपछि मोशा र एलिया अगमवक्ता देखा परे। यी मानिसहरु पृथ्वीमा बसेको सो हुनुभन्दा सयौँ वर्षअघि थियो। उनीहरुले येशूसँग उहाँको मृत्युको बारेमा कुरा गरे, जुन चाँडै नै यरुशलेममा हुनेवाला थियो। 
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?direct&}}
+
+
+जसै मोशा र एलिया येशूसँग बोलिरहेका थिए, पत्रुसले येशूलाई भने, “हामीलाई यहीँ रहनु असल छ। हामी तीनवटा बासस्थानहरु बनाऔँ, एउटा तपाईँको लागि, एउटा मोशाको लागि, र एउटा एलियाको लागि।” पत्रुसलाई उनी के भन्दैछन् सो थाहा थिएन। 
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?direct&}}
+
+
+जसै पत्रुस बोल्दै थिए, एक उज्यालो बादल तल आयो र उनीहरुलाई घेर्यो र बादलबाट एक आवाजले यसो भन्यो, “यिनी मेरा पुत्र हुन् जसलाई म प्रेम गर्छु। म उसँग प्रसन्न छु। उसको कुरा सुन।” ती तीन चेलाहरु डराएका थिए र भुईँमा लडे। 
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?direct&}}
+
+
+अनि येशूले तिनीहरुलाई छुनुभयो र भन्नुभयो, “नडराओ। उठ।” जब तिनीहरुले वरिपरि हेरे, त्यहाँ हुने एकजना केवल येशूमात्र हुनुहुन्थ्यो। 
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?direct&}}
+
+
+येशू र तीन चेलाहरु फेरी पहाडबाट तल झर्नुभयो। अनि येशूले तिनीहरुलाई भन्नुभयो, “यहाँ के भयो भन्ने बारेमा अहिल्यै कसैलाई केही नभन्नु। चाडैँनै म मर्नेछु अनि त्यसपछि फेरी जीवित हुनेछु। त्यसो भइसकेपछि, तिमीहरुले मानिसहरुलाई भन्न सक्नेछौ।”
+
+
+बाइबलको कथा: मत्ती १७:१-९; मर्कूस ९:२-८; लूका ९:२८-३६ बाट
