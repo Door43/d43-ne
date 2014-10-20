@@ -1,40 +1,58 @@
-====== 33. The Story of the Farmer ======
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
-
-One day, Jesus was down by the sea, teaching great crowds of people. The crowd got so big that Jesus got into a boat and began speaking from there.
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
-
-Jesus told this story. “A farmer went out to plant some grain. As he was spreading the seeds by hand, some seeds fell on the path, and the birds came and ate it all.”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
-
-“Other seeds fell on a rocky place, where there was not much soil. The seeds in the rocky soil sprouted quickly. But when the sun came up and it got hot, the plants withered and died since their roots did not go deep.”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
-
-“Still other seeds fell among thorny bushes. Those seeds were choked by the thorns and did not produce any grain.”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
-
-“Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as had been planted. He who has ears, let him hear!”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
-
-This story confused the disciples. So Jesus explained, “The seed represents the Word of God. The seeds on the path are like people who hear God’s Word, do not understand it, and the devil takes the word from them.”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
-
-“The seeds on the rocky soil are like people who hear God’s Word and accept it with joy. But in times of hardship or persecution, they fall away because they have no maturity.”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
-
-“The seeds in the thorns are like people who hear God’s Word and believe it. But as time passes, their love for God is choked out by the cares, riches, and pleasures of life. The teaching they heard does not produce fruit.”
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
-
-“But the seeds that fall on good soil represent people who hear the Word of God, believe it, and produce fruit.”
+====== ३३. एक किसानको कथा ======
 
 
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
+
+
+एकदिन, येशूले तालको किनारको छेऊमा एक ठूलो जमातका मानिसहरुलाई शिक्षा दिइराख्नुभएको थियो। उहाँलाई सुन्न यति धेरै मानिसहरु आए कि बोल्नको लागि पर्याप्त ठाउँ होस् भनेर येशू पानीको छेऊमा भएको डुङ्गामाथि चढ्नुभयो। उहाँ डुङ्गामा बस्नुभयो र मानिसहरुलाई सिकाउन लाग्नुभयो। 
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
+
+
+येशूले यो कथा भन्नुभयो, “एक किसान केही बिउ लगाउन भनी बाहिर निस्क्यो। जसै ऊ आफ्ना हातहरुले बिउ छर्दै थियो, केही बिउ बाटोमै झर्न पुगे, अनि चराहरु आए र ती सबै बिउहरु खाइदिए।”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
+
+
+“अरु बिउहरु ढुङ्गेनी जमीनमा परे, जहाँ ज्यादै थोरै मात्र माटो थियो। ढुङ्गेनी जमीनमा परेका बिउहरु चाँडै नै उम्रे, तर तिनका जराहरु माटोको भित्र जान सक्ने थिएन। जब घाम लाग्यो अनि गर्मी हुन लाग्यो, ती बिरुवाहरु ओइल्याए र मरे।”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
+
+
+अझै अरु बिउहरु काँढेदार झाडीहरु भएको ठाउँमा परे। ती बिउहरु बढ्न त लागे, तर काँढाहरुले त्यस बिरुवाहरुलाई निसासिदियो। त्यसैले काँढाहरु भएको जमीनमा उम्रेका बिरुवाहरुले कुनै अन्न फलाएनन्।”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
+
+
+अरु बिरुवाहरु असल माटोमा पर्यो। यी बिउहरु उम्रिए र तिनले ३०, ६० वा अझ १०० गुणा बढी फल दिए। जसको कान छ, त्यसले सुनोस्!”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
+
+
+यस कथाले चेलाहरुलाई अलमलमा पार्यो। त्यसैले येशूले बुझाउनुभयो, “बिउ चाहिँ परमेश्वरको वचन हो। बाटो चाहिँ त्यो व्यक्ति हो जसले परमेश्वरको वचन त सुन्छ, तर त्यसलाई बुझ्दैन, अनि दुष्टले ऊबाट त्यो वचन खोसेर लैजान्छ।”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
+
+
+“ढुङ्गेनी जमीनचाहिँ त्यो व्यक्ति हो जसले परमेश्वरको वचन सुन्छ र यसलाई हर्षका साथ ग्रहण गर्छ। तर जब उसले कठिन परिस्थिती अथवा खेदोको सामना गर्छ, ऊ त्यसबाट पछि हट्दछ।”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
+
+
+“काँढेदार जमीनचाहिँ त्यो व्यक्ति हो जसले परमेश्वरको वचन सुन्छ, तर जसै समय बित्दै जान्छ, जिन्दगीको फिक्री, धनसम्पति, र आनन्दले परमेश्वरप्रतिको उसको प्रेमलाई निसास्सिदिन्छ। फलस्वरुप, उसले सुनेको शिक्षाले कुनै फल फलाउँदैन।”
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
+
+
+“तर असल माटोचाहिँ त्यो व्यक्ति हो जसले परमेश्वरको वचन सुन्छ, त्यसलाई विश्वास गर्छ, र फल फलाउँछ।”
+
+
+बाइबलको कथा: मत्ती १३:१-८, १८-२३; मर्कूस ४:१-८, १३-२०; लूका ८:४-१५ बाट
