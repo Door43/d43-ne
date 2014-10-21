@@ -1,35 +1,52 @@
-====== 25. Satan Tempts Jesus ======
+====== २५. शैतानले येशूको परीक्षा गर्छ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg}}
 
-Immediately after Jesus was baptized, the Holy Spirit led him out into the desert, where he fasted for forty days and forty nights. Then Satan appeared and tempted him.
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg}}
 
-Satan said, “If you are the Son of God, turn these rocks into bread so you can eat!”
+येशूको बप्तिस्मा भएको लगतै, पवित्र आत्माले उहाँलाई उजाड स्थानतिर डोर्याउनुभयो, जहाँ उहाँले चालीस दिन अनि चालीस रातसम्म उपवास बस्नुभयो। त्यसपछि शैतान येशूकहाँ आयो र उहाँलाई पाप गर्न परीक्षा गर्यो। 
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg}}
 
-Jesus replied, “It is written in God’s Word, ‘Man does not live only on bread, but on every word that God speaks!’”
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg}}
 
-Then Satan took Jesus to the highest point on the Temple and said, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels to catch you so your foot does not hit the ground.’”
+शैतानले यसो भनेर येशूको परीक्षा गर्यो, "यदी तपाईँ परमेश्वरको पुत्र हुनुहुन्छ भने, यी ढुङ्गाहरुलाई रोटीमा परिणत गर्नुहोस् ताकि तपाईँ खान सक्नुहुन्छ!"
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg}}
 
-But Jesus replied, “It is also written in God’s Word, ‘Do not test the Lord, your God.’”
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg}}
 
-Then Satan showed Jesus all the kingdoms of the world and all their glory and said, “I will give you all this if you bow down and worship me.”
+येशूले जवाफ दिनुभयो, "परमेश्वरको वचनमा यो लेखिएको छ, 'मानिसलाई बाँच्नका लागि केवल रोटीमात्र होइन, तर उनीहरुलाई परमेश्वरले बोल्नुभएको हरेक वचन चाहिन्छ!'"
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg}}
 
-Jesus replied, “Get away from me, Satan! It is written in God’s Word, ‘Worship only the Lord your God and only serve him.’”
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?direct&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg}}
 
-Jesus did not give in to Satan's temptations, so Satan left him. Then angels came and took care of Jesus.
+त्यसपछि शैतानले येशूलाई मन्दिरको सबैभन्दा अग्लो भागमा लग्यो र भन्यो, "यदि तपाईँ परमेश्वरको पुत्र हुनुहुन्छ भने, तल हाम्फाल्नुहोस्, किनकी लेखिएको छ, 'परमेश्वरले तपाईँको बिषयमा आफ्ना दूतहरुलाई आज्ञा गर्नुहुनेछ, अनि कहिँ तपाईँले आफ्नो पाउ ढुङ्गामा बजार्नुहुनेछ कि भनी तिनीहरुले तपाईँलाई आफ्ना हातमा उठाउनेछन्।"
 
-//A Bible story from: Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13//
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?direct&}}
+
+
+तर येशूले शैतानलाई वचनहरुबाट उध्रित गरेर जवाफ दिनुभयो। उहाँले भन्नुभयो, "परमेश्वरको वचनमा, उहाँले आफ्ना मानिसहरुलाई आज्ञा गर्नुभएको छ, 'परमप्रभु आफ्ना परमेश्वरको परीक्षा नगर्नु।'"
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?direct&}}
+
+
+त्यसपछि शैतानले येशूलाई संसारका सारा राज्यहरु र त्यसका सारा महिमाहरु देखायो र भन्यो, "यदि तपाईँले घोप्टो परी मलाई दण्डवत गर्नुभयो भने म तपाईँलाई यी सबै दिनेछु।"
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?direct&}}
+
+
+येशूले जवाफ दिनुभयो, "मबाट टाढा हटिजा, शैतान! परमेश्वरको वचनमा उहाँले आफ्ना मानिसहरुलाई आज्ञा गर्नुहुन्छ, 'तिमीले परमप्रभु आफ्ना परमेश्वरलाई दण्डवत् गर, र उहाँकै मात्र सेवा गर।'"
+
+
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?direct&}}
+
+
+येशूले शैतानको परीक्षाहरुमा आफैँलाई सुम्पनुभएन, त्यसैले शैतानले उहाँलाई छोडेर गयो। अनि स्वर्गदूतहरु आए र येशूको ख्याल गरे।
+
+
+बाइबलको कथाः मत्ती ४:१-११; मर्कुस १:१२-१३; लुका ४:१-१३ बाट
