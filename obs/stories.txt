@@ -1,6 +1,6 @@
 
 
-  - [[:ne:obs:02|सृष्टि]]
+  - [[:ne:obs:01|सृष्टि]]
   - [[:ne:obs:02|Sin Enters the World]]
   - [[:ne:obs:03|The Flood]]
   - [[:ne:obs:04|God's Covenant with Abraham]]
