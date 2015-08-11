@@ -1,8 +1,7 @@
-====== Door43 (ne) ======
+====== डोर४३ (ne) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
+तपाईलाई डोर ४३ मा स्वागत छ ! कृपया यस पेजलाई आफ्नो भाषामा बनाउन कुनै अप्ठ्यारो नमान्नुहोस l यसलाई कसरी बनाउने भन्ने बिस्तृत सुचनाहरु यहाँ बाट पाउन सक्नु हुन्छ यसको लागी यहा क्लिक गर्नुहोस [[:en:get-started|here]].
 
-===== Resources =====
+===== स्रोतहरु  =====
 
-  * **[[ne:obs|Open Bible Stories (ne)]]**
-
+  * **खुल्ला बाइबलका कथाहरु [[:ne:obs|(ne)]]**
