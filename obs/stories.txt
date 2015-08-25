@@ -1,10 +1,10 @@
 
 
   - [[:ne:obs:01|सृष्टि]]
-  - [[:ne:obs:sंsाrmा-pाp-p्rvेsh|संसारमा पाप प्रवेश]]
-  - [[:ne:obs:jlp्rlz|जलप्रलय]]
-  - [[:ne:obs:god-s-covenant-with-abraham|अब्राहमसँग परमेश्वरको करार]]
-  - [[:ne:obs:the-son-of-promise|प्रतिज्ञाको सन्तान]]
+  - [[:ne:obs:02|संसारमा पाप प्रवेश]]
+  - [[:ne:obs:03|जलप्रलय]]
+  - [[:ne:obs:04|अब्राहमसँग परमेश्वरको करार]]
+  - [[:ne:obs:05|प्रतिज्ञाको सन्तान]]
   - [[:ne:obs:god-provides-for-isaac|परमेश्वरले इसहाकलाई दिनुभयो]]
   - [[:ne:obs:god-blesses-jacob|परमेश्वरले याकूबलाई आशिष् दिनुभयो]]
   - [[:ne:obs:god-saves-joseph-and-his-family|परमेश्वरले योसेफ र उनका घरानालाई बचाउनुभयो]]
