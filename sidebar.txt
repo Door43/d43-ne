@@ -9,17 +9,12 @@
 
   * [[ne:obs|Open Bible Stories (ne)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-ne|d43-ne repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ne/archive/master.zip|d43-ne.zip]]
 
 **Recent Changes**
 {{changes>ns = ne}}
-
-**Latest Status**
-{{page>en:uwadmin:ne:obs:status}}
-
 
 **Language Information**
 
