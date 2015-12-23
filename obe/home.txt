@@ -1,11 +1,12 @@
-====== Complete list of Important Terms ======
+====== Complete List of Important Terms - Nepali ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ne:obe:kt:home|Key Terms]]
-  * [[:ne:obe:other:home|Other Terms]]
-  * [[:ne:bible:admin-reports:obe-admin:obe-reject]]
-  * [[:ne:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
-==== All terms from both lists: ====
+  * [[:ne:obe:kt:home]]
+  * [[:ne:obe:other:home]]
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+==== All Important Terms: ====
+
+<nspages ne:obe -r -title -exclude:home -textPages="">
+
+
