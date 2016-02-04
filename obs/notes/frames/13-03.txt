@@ -8,7 +8,7 @@
 
 
   * **[[:ne:obe:kt:god]]**
-  * **[[:ne:obe:kt:sinai]]**
+  * **[[:ne:obe:other:sinai]]**
   * **[[:ne:obe:other:moses]]**
 
 
