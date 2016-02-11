@@ -1,13 +1,56 @@
 
-----
-~~NOCACHE~~
+
 **Door43**
 
-  * [[ne:home|Door43 (ne)]]
+  * [[ne:home|Door43 (Nepali)]]
+
+**Help**
+
+  * [[:ne:ta|translationAcademy]]
+  * [[:en:get-started|How to Get Started]]
+  * [[:en:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[ne:obs|Open Bible Stories (ne)]]
+  *  [[:ne:obs|Open Bible Stories]]
+      * [[:ne:obs:notes|translationNotes]]
+      * [[:ne:obs:notes:questions:home|translationQuestions]]
+      * [[:ne:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:ne:bible:intro|Bible (Nepali)]]
+      * [[:ne:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:ne:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:ne:bible:notes:home|translationNotes]]
+      * [[:ne:bible:questions:comprehension:home|translationQuestions]]
+      * [[:ne:obe:home|translationWords]]
+  * [[:en:ta|translationAcademy (English)]]
+      * [[:en:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:en:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
