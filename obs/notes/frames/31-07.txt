@@ -2,9 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink}}
 
-Then **[[:en:key-terms:peter|Peter]]** became afraid and began to sink in the water. He cried out, “**[[:en:key-terms:lord|Master]]** , **[[:en:key-terms:save|save]]** me!” **[[:en:key-terms:jesus|Jesus]]** reached out right away and grabbed him. Then he said to Peter, “**You man of little [[:en:key-terms:faith|faith]]**, **why did you doubt**?”
+
+Then **Peter** became afraid and began to sink in the water. He cried out, “**Master**, **save** me!” **Jesus** reached out right away and grabbed him. Then he said to Peter, “**You man of little faith**, **why did you doubt**?”
 
 
+===== Important Terms: =====
+
+  * **[[:ne:obe:other:peter]]**
+  * **[[:ne:obe:kt:lord]]**
+  * **[[:ne:obe:kt:save]]**
+  * **[[:ne:obe:kt:jesus]]**
+  * **[[:ne:obe:kt:faith]]**
 ===== Translation Notes: =====
 
   * **You man of little faith** - This may also be translated as, “You have so little faith in me!” or, “You do not trust me very much!”
