@@ -2,7 +2,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
 
-“Some other **[[:en:key-terms:servant|servants]]** saw **what had happened** and **were greatly disturbed**. They went to the **[[:en:key-terms:king|king]]** and told him **everything**.”
+“Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
+===== Important Terms: =====
+
+  * **[[:ne:obe:other:servant]]**
+  * **[[:ne:obe:other:king]]**
 
 
 ===== Translation Notes: =====
