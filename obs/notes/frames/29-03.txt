@@ -2,8 +2,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
 
-“Since the **[[:en:key-terms:servant|servant]]** could not **pay the debt**, the **[[:en:key-terms:king|king]]** said, ‘Sell this man and his family as **[[:en:key-terms:servant|slaves]]** **to make payment on his debt**.’”
 
+“Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
+===== Important Terms: =====
+
+  * **[[:ne:obe:other:servant]]**
+  * **[[:ne:obe:other:king]]**
+  * **[[:ne:obe:other:servant]]**
 
 ===== Translation Notes: =====
 
