@@ -2,7 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink}}
 
-**Then [[:en:key-terms:jesus|Jesus]] said**, “**This** is what **my [[:en:key-terms:god-father|heavenly Father]]** will do to every one of you if you do not **[[:en:key-terms:forgive|forgive]]** **your brother** **from your heart**.”
+
+**Then Jesus said**, “**This** is what **my heavenly Father** will do to every one of you if you do not **forgive your brother from your heart**.”
+===== Important Terms: =====
+
+  * **[[:ne:obe:kt:jesus]] said**
+  * **[[:ne:obe:kt:godthefather]]**
+  * **[[:ne:obe:kt:forgive]]**
+
 
 //A Bible story from: Matthew 18:21-35//
 
