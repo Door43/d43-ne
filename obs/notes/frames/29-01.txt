@@ -2,7 +2,16 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
 
-**One day**, **[[:en:key-terms:peter|Peter]]** asked **[[:en:key-terms:jesus|Jesus]]**, “**[[:en:key-terms:lord|Master]]**, how many times should I **[[:en:key-terms:forgive|forgive]]** **my brother** when he **[[:en:key-terms:sin|sins]] against me**? **Up to** seven times?” Jesus said, “**Not seven times, but seventy times seven!**” **By this, Jesus meant** that we should always forgive. Then Jesus told **this story**.
+
+**One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
+
+===== Important Terms: =====
+
+  * **[[:ne:obe:other:peter]]**
+  * **[[:ne:obe:kt:jesus]]**
+  * **[[:ne:obe:kt:lord]]**
+  * **[[:ne:obe:kt:forgive]]**
+  * **[[:ne:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
@@ -16,4 +25,4 @@
   * **this story** - That is, "the following story."
   
 
-** [[:ne:obs:notes:29|Up]] | [[:ne:obs:notes:frames:29-02|>>]]**
+**[[:ne:obs:notes:frames:28-10|<<]] | [[:ne:obs:notes:29|Up]] | [[:ne:obs:notes:frames:29-02|>>]]**
