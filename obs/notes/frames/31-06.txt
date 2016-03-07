@@ -2,8 +2,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink}}
 
-So, **[[:en:key-terms:peter|Peter]]** got out of the boat and started walking to **[[:en:key-terms:jesus|Jesus]]** on the surface of the water. But after walking a short distance, he **turned his eyes away from** Jesus and began to look at the waves and to feel the strong wind.
+So, **Peter** got out of the boat and started walking to **Jesus** on the surface of the water. But after walking a short distance, he **turned his eyes away from** Jesus and began to look at the waves and to feel the strong wind.
+===== Important Terms: =====
 
+  * **[[:ne:obe:other:peter]]**
+  * **[[:ne:obe:kt:jesus]]**
 
 ===== Translation Notes: =====
 
