@@ -2,9 +2,12 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink}}
 
+Then **Jesus** finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
+===== Important Terms: =====
 
-Then **[[:en:key-terms:jesus|Jesus]]** finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
-
+  * **[[:ne:obe:kt:jesus]]**
+  * **[[:ne:obe:kt:disciple]]**
+  * **[[:ne:obe:other:pray]]**
 
 ===== Translation Notes: =====
 
