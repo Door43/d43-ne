@@ -1,12 +1,15 @@
-====== Complete List of Important Terms - Nepali ======
+
+======Complete List of translationWords - Nepali ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ne:obe:kt:home]]
-  * [[:ne:obe:other:home]]
+  * [[:ne:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ne:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+
+==== All Terms in the OBE: ====
 
 <nspages ne:obe -r -title -exclude:home -textPages="">
+
 
 
