@@ -2,11 +2,11 @@
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:en:obe:kt:home|List of the Key Terms in the OBE Directory]]
-  * [[:en:obe:other:home|List of the Other Terms in the OBE Directory]]
+  * [[:ne:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ne:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 
 ==== All Terms in the OBE: ====
 
-<nspages en:obe -r -title -exclude:home -textPages="">
+<nspages ne:obe -r -title -exclude:home -textPages="">
