@@ -1,17 +1,12 @@
-<h1>Complete List of translationWords - English</h1>
+====== Complete List of translationWords - Nepali ======
 
-<div class="level1">&nbsp;</div>
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-<h3>&quot;Key Terms&quot; and &quot;Other Terms&quot; in the OBE Directory:</h3>
+  * [[:en:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:en:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-<div class="level3">
-<ul>
-	<li class="level1"><a class="wikilink1" href="/doku.php?id=en:obe:kt:home" title="en:obe:kt:home">List of the Key Terms in the OBE Directory</a></li>
-	<li class="level1"><a class="wikilink1" href="/doku.php?id=en:obe:other:home" title="en:obe:other:home">List of the Other Terms in the OBE Directory</a></li>
-</ul>
-</div>
 
-<h3>All Terms in the OBE:</h3>
 
-<div class="level3">
-<p>&lt;nspages en:obe -r -title -exclude:home -textPages=&quot;&quot;&gt;</p>
+==== All Terms in the OBE: ====
+
+<nspages en:obe -r -title -exclude:home -textPages="">
